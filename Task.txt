@@ -1,0 +1,37 @@
+**Task 0: Valid Parentheses
+
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+An input string is valid if:
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Implement an algorithm to validate the parentheses efficiently.
+Example:
+     Input: "()[]{}"
+     Output: true
+     Input: "([)]"
+     Output: false
+
+ 
+
+**Task 1: Class Inheritance**
+Create classes to represent geometric shapes, including circles and rectangles. Implement methods for area calculation. You can use the provided example code as a reference.
+
+ 
+
+**Task 2: Interface Implementation**
+Develop a logging system using interfaces. Create classes that implement a logging interface and demonstrate their usage.
+
+ 
+
+**Task 3: Encapsulation**
+Design a class to manage employee data, demonstrating encapsulation by setting and getting employee salaries securely.
+
+ 
+
+**Task 4: Polymorphism**
+Build a set of animal classes that demonstrate polymorphism by overriding a method for making sounds.
+
+ 
+
+Task 5: To-Do Module** (Mandatory)
+Develop a simple To-do crud module using Laravel Framework. Use VueJs for the view rendering (Optional), that will be a huge advantage for you as currently we are working with SPA in our company. If you do not know VueJs, then its ok to use blade view rending for the module
